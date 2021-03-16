@@ -1,0 +1,7 @@
+textarea{
+    display: flex;
+}
+button{
+    border-radius: 10px;
+    outline: none;
+}

@@ -1,0 +1,8 @@
+.form{
+    border: 1px solid black;
+    padding: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: gray;
+}
